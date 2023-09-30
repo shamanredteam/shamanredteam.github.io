@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c95cc44b.css",
+    "main.js": "/static/js/main.85f4309e.js",
+    "static/media/optical-fiber-background.jpg": "/static/media/optical-fiber-background.4adf9d6e5d3ea4e5eeee.jpg",
+    "static/media/banner.png": "/static/media/banner.0afba1cee8cc9e590886.png",
+    "static/media/startups.svg": "/static/media/startups.8319a5ea7047e8981756d93dff6a9528.svg",
+    "static/media/workflow.svg": "/static/media/workflow.7275f25a2b560f3765b74440f3ece009.svg",
+    "static/media/red-teaming.svg": "/static/media/red-teaming.00052263b84b1105c6655ee047b2338c.svg",
+    "static/media/web-pentest.svg": "/static/media/web-pentest.e57679d01fd9aead0f19ca76a359e8d6.svg",
+    "static/media/mobile-pentest.svg": "/static/media/mobile-pentest.d12ce5d45aaa2fc8e30ef3aeb86db037.svg",
+    "static/media/desktop-pentest.svg": "/static/media/desktop-pentest.18745b91cae750cd3cbba9e18101e0bf.svg",
+    "static/media/api-pentest.svg": "/static/media/api-pentest.372dca89f6544b613d07c01f191da3b9.svg",
+    "static/media/cloud-pentest.svg": "/static/media/cloud-pentest.9f3e67f0b961bbc88efb8411ed881432.svg",
+    "static/media/code-review.svg": "/static/media/code-review.5931f5133247c337aab943321454f7d9.svg",
+    "index.html": "/index.html",
+    "main.c95cc44b.css.map": "/static/css/main.c95cc44b.css.map",
+    "main.85f4309e.js.map": "/static/js/main.85f4309e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95cc44b.css",
+    "static/js/main.85f4309e.js"
+  ]
+}
