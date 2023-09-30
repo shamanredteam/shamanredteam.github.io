@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c95cc44b.css",
-    "main.js": "/static/js/main.85f4309e.js",
-    "static/media/optical-fiber-background.jpg": "/static/media/optical-fiber-background.4adf9d6e5d3ea4e5eeee.jpg",
+    "main.js": "/static/js/main.9d604bdd.js",
+    "static/media/video.mp4": "/static/media/video.db67fe39be63155541d0.mp4",
     "static/media/banner.png": "/static/media/banner.0afba1cee8cc9e590886.png",
     "static/media/startups.svg": "/static/media/startups.8319a5ea7047e8981756d93dff6a9528.svg",
     "static/media/workflow.svg": "/static/media/workflow.7275f25a2b560f3765b74440f3ece009.svg",
@@ -15,10 +15,10 @@
     "static/media/code-review.svg": "/static/media/code-review.5931f5133247c337aab943321454f7d9.svg",
     "index.html": "/index.html",
     "main.c95cc44b.css.map": "/static/css/main.c95cc44b.css.map",
-    "main.85f4309e.js.map": "/static/js/main.85f4309e.js.map"
+    "main.9d604bdd.js.map": "/static/js/main.9d604bdd.js.map"
   },
   "entrypoints": [
     "static/css/main.c95cc44b.css",
-    "static/js/main.85f4309e.js"
+    "static/js/main.9d604bdd.js"
   ]
 }
