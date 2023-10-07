@@ -1,6 +1,6 @@
 {
-  "name": "brand",
-  "version": "0.1.0",
+  "name": "shamanredteam",
+  "version": "1.0.0",
   "homepage": "https://shamanredteam.github.io/",
   "private": true,
   "dependencies": {
@@ -33,7 +33,7 @@
     ]
   },
   "browserslist": {
-    "production": [
+    "production": [brand
       ">0.2%",
       "not dead",
       "not op_mini all"
