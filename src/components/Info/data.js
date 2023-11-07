@@ -39,10 +39,10 @@ export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "Free of Charge Pentest",
+  topLine: "Discounted Pentest Service",
   headline: "We support young global startups",
   description:
-    "Our team supports successful young startups accross the world and perform free of charge security assessment of their applications.",
+    "Our team supports successful young startups accross the world and offers them pentest services with huge discounts.",
   imgStart: false,
   img: require("../../images/startups.svg").default,
   alt: "Startups",
