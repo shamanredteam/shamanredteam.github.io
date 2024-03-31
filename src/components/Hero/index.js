@@ -22,19 +22,17 @@ const Hero = () => {
   return (
     <HeroContainer id="home">
       <HeroBg>
-        <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>We are professional Red Team specialists</HeroH1>
+        <HeroH1>We are aiming to secure your online services</HeroH1>
         <HeroP>
-          with the aim of helping you identify security vulnerabilities of your assets <br /> and strenghen security posture of your company
+        <br /><br />We're here to ensure that your online services are free from security weaknesses. <br /> Let our shamans guide you through the enchanted forests of application security!<br />
         </HeroP>
         <HeroBtnWrapper>
           <Button
             to="contact"
             onMouseEnter={onHover}
             onMouseLeave={onHover}
-            primary="true"
             dark="true"
             smooth={true}
             duration={500}

@@ -4,7 +4,7 @@ import { Link as LinkS } from "react-scroll";
 import { ExternalLink } from "react-external-link";
 
 export const Nav = styled.nav`
-  background: ${({ }) => ("#CC0000")};
+  background: ${({ }) => ("#212228")};
   height: 80px;
   margin-top: -80px;
   display: flex;
@@ -25,7 +25,6 @@ export const NavbarContainer = styled.div`
   height: 80px;
   z-index: 1;
   width: 100%;
-  padding: 0 24px;
   max-width: 1100px;
 `;
 
@@ -126,11 +125,12 @@ export const ImgWrap = styled.div`
   display: inline-block;
   display: flex;
   align-items: center;
+  padding-block: 6px;
   justify-content: space-between;
 `;
 
 export const Img = styled.img`
-  width: 16rem;
+  width: 18rem;
   margin: auto;
 `;
 

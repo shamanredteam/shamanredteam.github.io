@@ -33,7 +33,7 @@ const Footer = () => {
       <FooterWrap>
         <SocialMedia>
           <SocialMediaWrap>
-            <WebsiteRights>© Shaman Red Team 2023</WebsiteRights>
+            <WebsiteRights>© Shaman Red Team {new Date().getFullYear()}</WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="https://www.facebook.com/shamanredteam" target="_blank" aria-label="Facebook">
                 <FaFacebook />

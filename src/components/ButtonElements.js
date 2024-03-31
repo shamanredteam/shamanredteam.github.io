@@ -3,7 +3,7 @@ import { Link } from "react-scroll";
 import { Link as LinkR } from "react-router-dom";
 
 export const Button = styled(LinkR)`
-  border-radius: 50px;
+  border-radius: 3rem;
   background: ${({ primary }) => (primary ? "#e61f27" : "#010606")};
   white-space: nowrap;
   padding: ${({ big }) => (big ? "14px 48px" : "12px 30px")};
@@ -17,11 +17,11 @@ export const Button = styled(LinkR)`
   align-items: center;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
-
+  height: 3rem;
 
   &:hover {
     transition: all 0.2s ease-in-out;
-    background: ${({ primary }) => (primary ? "#fff" : "#e61f27")};
+    background: ${({ primary }) => (primary ? "#fff" : "#fff")};
     color: ${({ dark }) => (dark ? "#000" : "#fff")};
   }
 `;

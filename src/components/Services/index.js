@@ -57,9 +57,9 @@ const Services = () => {
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon6} />
-          <ServicesH2>Source Code Review</ServicesH2>
+          <ServicesH2>Secure Code Review</ServicesH2>
           <ServicesP>
-            We analyze source code of your applications, identify vulnerable code patterns and recommend remediation steps.  
+            We audit the code base of your applications, identify potentially vulnerable code snippets and recommend remediation steps.  
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>

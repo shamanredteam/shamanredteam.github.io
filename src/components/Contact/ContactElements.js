@@ -12,10 +12,13 @@ export const Container = styled.div`
   overflow-x: hidden;
   overflow-y: auto;
   background: linear-gradient(
-    108deg,
-    rgba(230, 31, 39, 1) 0%,
-    rgba(218, 25, 25, 1) 100%
-  );
+    90deg,
+    rgba(230, 31, 39, 0.4) 100%,
+    rgba(1, 6, 6, 0.5) 0%
+  ),
+  linear-gradient(90deg, rgba(0, 0, 0, 1) 100%, transparent 100%);
+z-index: 2;
+} 
 `;
 
 export const FormWrap = styled.div`

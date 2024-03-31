@@ -22,7 +22,7 @@ const Contact = () => {
     <Container>
       <FormWrap>
         <FormContent>
-          <Form method="POST" action="https://fabform.io/f/ua49pqy">
+          <Form method="POST" action="https://public.herotofu.com/v1/d78a8b60-ef4f-11ee-97a2-f17dd40c9cd8">
             <FormH1>Get in touch with us</FormH1>
             <FormLabel htmlFor="for">Full Name *</FormLabel>
             <FormInput type="text" name="fullname" required />
@@ -32,7 +32,6 @@ const Contact = () => {
             <FormInput type="email" name="email" required />
             <FormLabel htmlFor="for">Message *</FormLabel>
             <FormTextArea name="message" required />
-            {/* <ReCAPTCHA ref={recaptchaRef} sitekey="6LcdNmwiAAAAALSe2_wPSHAfXYX1577N4-r3HPm5"/> */}
             <FormButton type="submit">Send</FormButton>
           </Form>
         </FormContent>
